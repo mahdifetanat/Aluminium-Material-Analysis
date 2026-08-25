@@ -3,6 +3,7 @@
 Group project investigating aluminium as a prosthetic material under real-world physiological loading and temperature conditions, combining Instron compression testing with SolidWorks FEA.
 
 🌐 **[Live interactive report](https://mahdifetanat.github.io/Aluminium-Website/)**
+
 📄 **[Poster](https://github.com/mahdifetanat/Aluminium-Material-Analysis/blob/main/Instron%20poster.pdf)**
 
 ## The question
