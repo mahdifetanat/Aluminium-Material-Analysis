@@ -13,11 +13,11 @@ How does an aluminium rod behave under compressive loads and temperature swings 
 ## Method
 
 **Instron compression testing** on a ⌀3.98 × 8.53 mm aluminium rod across three test protocols:
-- **Test 1 — Ramp rate comparison**: single load-unload cycle to 2500N, comparing 200 N/s vs 300 N/s ramp rates to isolate viscoelastic (rate-dependent) behaviour from pure elastic response
-- **Test 2 — High-amplitude cyclic loading**: 250 cycles at 0.77Hz (800N base, 700N amplitude), repeated at −18°C, 5°C, and 38°C to simulate real thermal extremes a prosthetic might face
-- **Test 3 — Low-amplitude cyclic loading**: 300 cycles at 0.5Hz (330N base, 320N amplitude), same three temperatures, to see how amplitude affects long-term stability
+- **Ramp rate comparison**: single load-unload cycle to 2500N, comparing 200 N/s vs 300 N/s ramp rates to isolate viscoelastic (rate-dependent) behaviour from pure elastic response
+- **High-amplitude cyclic loading**: 250 cycles at 0.77Hz (800N base, 700N amplitude), repeated at −18°C, 5°C, and 38°C to simulate real thermal extremes a prosthetic might face
+- **Low-amplitude cyclic loading**: 300 cycles at 0.5Hz (330N base, 320N amplitude), same three temperatures, to see how amplitude affects long-term stability
 
-**SolidWorks FEA** — nonlinear static simulations of each test condition, validating experimental stress/displacement results against Von Mises stress distribution and factor of safety, using measured material properties
+**SolidWorks FEA:** nonlinear static simulations of each test condition, validating experimental stress/displacement results against Von Mises stress distribution and factor of safety, using measured material properties
 
 ## Key findings
 
